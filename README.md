@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @graham-ecu
-- 👀 I’m interested in data science
-- 🌱 I’m currently working as a Data Analyst and Engineer, while also learning through a Data Science course with Springboard
-- 💞️ I’m looking to collaborate on Machine Learning projects or Business Analytics projects
+- 👀 I’m interested in data science and software engineering
+- 🌱 I’m currently working as a Platform Configuration Engineer
+- 💞️ I’m looking to collaborate on Machine Learning projects, web design projects, or backend development and APIs
 - 📫 How to reach me: 15grahamm@gmail.com
 
 <!---

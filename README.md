@@ -36,10 +36,8 @@ You can find me on the web or reach out for collaboration and discussions on var
 - [LinkedIn](https://www.linkedin.com/in/matthew-e-graham/)
 ---
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-
-stats.vercel.app/api?username=graham-ecu&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-
-langs/?username=graham-ecu&layout=compact)
+[Github Stats](https://github-readme-stats.vercel.app/api?username=graham-ecu&show_icons=true)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graham-ecu&layout=compact)
 ---
 ## Visitors
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=graham-ecu.graham-ecu)

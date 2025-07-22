@@ -1,6 +1,7 @@
 <h1 align="center"> Matthew Graham
 <p align="center">
-<a href="[https://www.linkedin.com/in/matthew-e-graham/]">LinkedIn</a> •
+<a href="[https://www.linkedin.com/in/matthew-e-graham/]">LinkedIn</a>
+<a href="[https://graham-ecu.github.io/]">Website</a>
 </p>
 
 ---
@@ -27,14 +28,12 @@ I'm passionate about technology, specializing in Data Science. With an engineeri
 ---
 ## Projects
 - NBA Salary Analysis: https://github.com/graham-ecu/NBA-Salary-Prediction
-- [Project 2]: [Project Description and Link]
-- [Project 3]: [Project Description and Link]
+- Twitter Sentiment Analysis: https://github.com/graham-ecu/Twitter-Sentiment-Analysis
 ---
 ## Let's Connect
 You can find me on the web or reach out for collaboration and discussions on various platforms:
-- [Website](Your Website URL)
+- [Website](https://graham-ecu.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/matthew-e-graham/)
-- [Twitter](Your Twitter URL)
 ---
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-

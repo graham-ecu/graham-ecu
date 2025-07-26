@@ -1,7 +1,7 @@
 <h1 align="center"> Matthew Graham
 <p align="center">
-<a href="[https://www.linkedin.com/in/matthew-e-graham/]">LinkedIn</a>
-<a href="[https://graham-ecu.github.io/]">Website</a>
+<a href="https://www.linkedin.com/in/matthew-e-graham/">LinkedIn</a>
+<a href="https://graham-ecu.github.io/">Website</a>
 </p>
 
 ---
@@ -22,13 +22,13 @@ I'm passionate about technology, specializing in Data Science. With an engineeri
 - Senior Platform Configuration Engineer and Manager
 ---
 ## Degrees & Certifications
+- IE University - M.S. Big Data and Data Science
 - Pennsylvania State University - B.S. Mechanical Engineering
 - Springboard Data Science Fellow
-- IE University - M.S. Big Data and Data Science
 ---
 ## Projects
-- NBA Salary Analysis: https://github.com/graham-ecu/NBA-Salary-Prediction
-- Twitter Sentiment Analysis: https://github.com/graham-ecu/Twitter-Sentiment-Analysis
+- [NBA Salary Analysis](https://github.com/graham-ecu/NBA-Salary-Prediction)
+- [Twitter Sentiment Analysis](https://github.com/graham-ecu/Twitter-Sentiment-Analysis)
 ---
 ## Let's Connect
 You can find me on the web or reach out for collaboration and discussions on various platforms:
